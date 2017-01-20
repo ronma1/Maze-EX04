@@ -1,5 +1,7 @@
 # Maze-EX04
 Android VR application made using Unity3d for Software Structure course assignment.<br/> 
+For more information and requests visit our website [here](https://daniel4x.wixsite.com/smartcontroller) .
+
 
 ## What's in the box? 
 Unity3d project, written using C# and Java (Library integration).<br/>
